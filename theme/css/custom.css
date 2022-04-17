@@ -1,0 +1,94 @@
+.home #wrapper #main .fusion-post-content > h2.entry-title {
+  margin-bottom: 40px;
+}
+.fusion-main-menu > ul > li > a:hover {
+  border: 0px;
+}
+.fusion-is-sticky .fusion-secondary-main-menu {
+  background: #0390dc !important;
+}
+.tp-caption a {
+  color: #ffffff;
+}
+.fusion-copyright-notice {
+  color: #8c8989;
+}
+input.wysija-submit {
+  padding: 10px 20px;
+  margin-top: 0 !important;
+  border-radius: 3px;
+  border: none;
+  background: #0794e0;
+  color: #fff;
+  box-shadow: 0 2px rgba(0, 0, 0, 0.6);
+  transition: all 200ms ease-in-out;
+  cursor: pointer;
+}
+input.wysija-submit:active {
+  box-shadow: 0 0 rgba(0, 0, 0, 0.6);
+  transform: translate(0, 2px);
+}
+.fusion-main-menu > ul > li > a {
+  border: 0px;
+}
+.home #wrapper #main .fusion-post-content > h2.entry-title {
+  font-size: 16px;
+  line-height: 22px;
+}
+
+.search .fusion-clearfix.fusion-post-grid {
+  clear: none !important;
+}
+
+.fusion-main-menu > ul > li {
+  padding-right: 27px;
+}
+.fusion-is-sticky .fusion-main-menu > ul > li {
+  padding-right: 27px;
+  color: #ffffff !important;
+}
+
+.fusion-secondary-header .menu li.sec-menu-button a span {
+  background: #ffffff;
+  padding: 5px 15px;
+  color: #0091e0;
+  border-radius: 3px;
+  font-weight: bold;
+  box-shadow: 0 3px 0px 0 rgba(0, 85, 132, 0.7);
+  border: 1px solid #ffffff;
+  height: 30px;
+  line-height: 20px;
+  display: block;
+  transition: all 0.3s linear;
+  -webkit-transition: all 0.3s linear;
+  -moz-transition: all 0.3s linear;
+  -o-transition: all 0.3s linear;
+  -ms-transition: all 0.3s linear;
+}
+
+.fusion-is-sticky .fusion-main-menu > ul > li > a {
+  color: #ffffff !important;
+}
+
+/**
+ * Footer Logo
+ */
+
+.footer-logo {
+  padding: 30px 0;
+}
+
+.footer-logo--multi {
+  border-bottom: 1px solid #303030;
+}
+
+.footer-logo__link {
+  max-height: 60px;
+  width: 100%;
+}
+
+.footer-logo__image {
+  display: block;
+  margin: 0 auto;
+  max-height: 60px;
+}
