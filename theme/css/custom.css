@@ -92,3 +92,34 @@ input.wysija-submit:active {
   margin: 0 auto;
   max-height: 60px;
 }
+
+/**
+ * Results Folders
+ */
+
+.results-folders {
+  margin-bottom: 2em;
+}
+
+.results-folders__header {
+  margin-top: 2.5em;
+  color: #727272 !important;
+  font-weight: 600 !important;
+}
+
+.results-folders__item {
+  border-bottom: 1px solid #c7c7c7;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  padding-left: 12px;
+}
+
+.results-folders__title {
+  font-size: 1em;
+  font-weight: bold;
+  margin-left: 6px;
+}
+
+.results-folders__icon {
+  margin-right: 20px;
+}
