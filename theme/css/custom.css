@@ -123,3 +123,19 @@ input.wysija-submit:active {
 .results-folders__icon {
   margin-right: 20px;
 }
+
+/**
+ * Results List
+ */
+.results-list__item {
+  border-bottom: 1px solid #c7c7c7;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 12px;
+}
+
+.results-list__title {
+  font-size: 1.2em;
+  font-weight: bold;
+  margin-left: 20px;
+}
