@@ -139,3 +139,30 @@ input.wysija-submit:active {
   font-weight: bold;
   margin-left: 20px;
 }
+
+/**
+ * Results Files
+ */
+
+.results-files {
+  margin-top: 10em;
+}
+
+.results-files__header {
+  margin-top: 2.5em;
+  color: #727272 !important;
+  font-weight: 600 !important;
+}
+
+.results-files__item {
+  border-bottom: 1px solid #c7c7c7;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  padding-left: 12px;
+}
+
+.results-files__title {
+  font-size: 1em;
+  font-weight: bold;
+  margin-left: 6px;
+}
